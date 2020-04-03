@@ -2,4 +2,4 @@
 
 
 
-select * from "tpch_stpark" where symbol <> 'EURUSD'
+select * from "tpch_stpark" where symbol <> 'EURUSD' and symbol <> 'USDCAD'
